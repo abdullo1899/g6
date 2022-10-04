@@ -1,9 +1,12 @@
 hello g6
 
 second line
+<<<<<<< HEAD
 
 third line 
 
 
 forth line
 
+=======
+>>>>>>> parent of 1b69f0e (third commit by github)
